@@ -1,0 +1,10 @@
+{
+    "NMCL_Server_API_Version" : "Dev_0.0.1" ,
+    "NMCL_Server_From" : "GitHub",
+    "NMCL_Latest_Version" : "Dev",
+    "Mandatory_Updates" : "True",
+    "Notice" : "" ,
+    "Notice_Title" : "N/A",
+    "Notice_Content" : "N/A",
+    "Minimum_Version" : "Dev"
+}

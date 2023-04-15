@@ -1,10 +1,10 @@
 {
-    "NMCL_Server_API_Version" : "Dev_0.0.1.1" ,
+    "NMCL_Server_API_Version" : "Dev_0.0.1.2" ,
     "NMCL_Server_From" : "GitHub",
     "NMCL_Latest_Version" : "Dev",
     "Mandatory_Updates" : "True",
     "Notice" : "True" ,
-    "Notice_Title" : "N/A",
-    "Notice_Content" : "N/A",
+    "Notice_Title" : "NMCL 正在开发中",
+    "Notice_Content" : "NMCL Minecraft Launcher，一款全新的 Minecraft 启动器。当前，NMCL 仍在开发中，敬请期待！",
     "Minimum_Version" : "Dev"
 }
